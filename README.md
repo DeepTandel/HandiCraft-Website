@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
   -Copy code
-  git clone https://github.com/your-username/handicrafts-ecommerce.git
+  git clone https://github.com/DeepTandel/HandiCraft-Website
   cd handicrafts-ecommerce
 
 2. Set up the database:
